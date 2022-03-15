@@ -14,4 +14,10 @@ public void createcontest1() {
 	System.out.println("contact again created");
 }
 
+
+@Test
+public void createcontest2() {
+	System.out.println("contact again created");
+}
+
 }
