@@ -27,8 +27,7 @@
             <suiteXmlFile>testng_Org.xml</suiteXmlFile>
           </suiteXmlFiles>
         </configuration>
-     
-  </plugin>
+     </plugin>
   </plugins>
   </build>
   </profile>
