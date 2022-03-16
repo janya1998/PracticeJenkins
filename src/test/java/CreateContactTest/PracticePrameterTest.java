@@ -10,6 +10,7 @@ public class PracticePrameterTest {
 		
 		
 		String URL = System.getProperty("url");
+		
 		System.out.println(URL);
 		
 	}
